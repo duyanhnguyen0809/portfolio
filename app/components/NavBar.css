@@ -1,0 +1,11 @@
+/* NavBar.css */
+
+@media (max-width: 480px) {
+    /* Styles for screens smaller than 480px (like iPhone) */
+    .nav-bar {
+        flex-direction: column;
+    }
+    .nav-item {
+        margin-bottom: 10px;
+    }
+}

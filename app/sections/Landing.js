@@ -21,11 +21,11 @@ export default function Landing() {
         </div>
       </div>
       <div className="mobile:h-1/2 tablet:h-1/2 pc:h-full mobile:w-full tablet:w-full pc:w-1/2 items-center justify-center mobile:absolute flex pc:relative ">
-        <div className="w-2/3 z-10 border-gradient">
+        <div className="w-3/5 z-10 border-gradient">
           <img
-            src="./ava.jpg"
+            src="./anh1.jpg"
             alt="Avatar"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover opacity-70"
           />
         </div>{" "}
       </div>
